@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "rgb led reverse mount")(type KiCad)(uri "${KIPRJMOD}/libs/rgb led reverse mount")(options "")(descr ""))
+  (lib (name proton_c)(type KiCad)(uri ${KIPRJMOD}/libs/proton_c)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri ${KIPRJMOD}/libs/MX_Alps_Hybrid/MX_Alps_Hybrid.pretty)(options "")(descr ""))
+  (lib (name SSD1306)(type KiCad)(uri ${KIPRJMOD}/libs/KiCad-SSD1306-128x64/library/SSD1306.pretty)(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type KiCad)(uri ${KIPRJMOD}/libs/SamacSysParts/SamacSys_Parts.pretty)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri ${KIPRJMOD}/libs/kbd/kicad-footprints/kbd.pretty)(options "")(descr ""))
+)

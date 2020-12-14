@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name proton_c)(type Legacy)(uri ${KIPRJMOD}/libs/proton_c/proton_c.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "${KIPRJMOD}/libs/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name SSD1306-128x64_OLED)(type Legacy)(uri ${KIPRJMOD}/libs/KiCad-SSD1306-128x64/library/SSD1306-128x64_OLED.lib)(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type Legacy)(uri ${KIPRJMOD}/libs/SamacSysParts/SamacSys_Parts.lib)(options "")(descr ""))
+  (lib (name kbd)(type Legacy)(uri ${KIPRJMOD}/libs/kbd/kicad-symbols/kbd.lib)(options "")(descr ""))
+)
