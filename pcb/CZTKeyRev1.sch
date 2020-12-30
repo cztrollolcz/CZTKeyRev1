@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
 LIBS:CZTKeyRev1-cache
-LIBS:CZTKeyRev0-cache
 EELAYER 30 0
 EELAYER END
 $Descr A2 23386 16535
